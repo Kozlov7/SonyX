@@ -1,0 +1,2 @@
+IP Geolocation by DB-IP (https://db-ip.com), DB-IP Lite Country, лицензия CC BY 4.0.
+Файл geoip-v4.bin собран из dbip-country-lite-2026-11.csv скриптом Tools/geoip-convert.swift.
